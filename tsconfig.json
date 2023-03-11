@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "removeComments": true,
+        "target": "ES6",
+        "strict": true,
+        "watch": true
+    },
+    "files": [
+        "main.ts",
+        "utils.ts",
+        "algs.ts"
+    ]
+}
